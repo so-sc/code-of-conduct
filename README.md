@@ -30,7 +30,7 @@ Harassment includes:
 ie. Meetup organizing members and other volunteer members should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. 
 - Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.
 
-If asked to stop any harassing behavior are expected to comply immediately. If a participant/member engages in harassing behavior, the meetup organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.  
+If asked to stop any harassing behavior, you are expected to comply immediately. If a participant/member engages in harassing behavior, the meetup organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.  
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please follow the directions in the "Contact us" section, at the end of this document.  
 Organizers will be happy to help participants/members contact security or local law enforcement, provide escorts to an alternate location, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.  
   
@@ -44,7 +44,7 @@ Any promotions which are not directly affiliated to the community should be comp
 
 - Prakyath Rai - _Faculty Coordinator_  
 prakyath.cs@sahyadri.edu.in, +919876543210
-- Majesh P Shetty - _Student Program Coordinator_  
+- Manjesh P Shetty - _Student Program Coordinator_  
 manjeshshetty@gmail.com, +919876543210
 - Arjun Suvarna - _Chairman, SOSC_  
 arjunSuvarna@gmail.com, +919876543210
