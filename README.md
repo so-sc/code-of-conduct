@@ -43,9 +43,9 @@ Any promotions which are not directly affiliated to the community should be comp
 ## Contact us
 
 - Prakyath Rai - _Faculty Coordinator_  
-prakyath.cs@sahyadri.edu.in, +919876543210
+prakyath.is@sahyadri.edu.in
 - Manjesh P Shetty - _Student Program Coordinator_  
-manjeshshetty@gmail.com, +919876543210
+manjeshshetty@gmail.com, +919008492397
 - Arjun Suvarna - _Chairman, SOSC_  
 arjunsuvarana.s@gmail.com, +919741032296
 
