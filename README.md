@@ -36,7 +36,7 @@ Organizers will be happy to help participants/members contact security or local 
   
 We expect participants to follow these rules at our all of our event venues and event-related social events.  
 #### Communicate effectively
-We don't all speak the same language at the same skill level. Clear communication can help to avoid misunderstandings, as can remembering that our interpretations of words can be different depending on our backgrounds. Having context is important. It's better to ask for clarification than to make assumptions. Disagreements, social and technical, are normal, but we expect members in the project to resolve disagreements constructively — so please avoid flamewars, trolling, personal attacks, and repetitive arguments.
+We don't all speak the same language at the same skill level. Clear communication can help to avoid misunderstandings, as can remembering that our interpretations of words can be different depending on our backgrounds. Having context is important. It's better to ask for clarification than to make assumptions. Disagreements, social and technical, are normal, but we expect members in the community to resolve disagreements constructively — so please avoid flamewars, trolling, personal attacks, and repetitive arguments.
 #### Unaffilated Promotions
 Any promotions which are not directly affiliated to the community should be completely avoided, if found continuing even after asked to stop may result in removal from the event/community. All the members/organizers/sponsors/participants shall ask permission with  concerned people mentioned at the end of the document to carry-out any promotions within the community discussion rooms or events.
 
