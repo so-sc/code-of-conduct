@@ -47,7 +47,7 @@ prakyath.cs@sahyadri.edu.in, +919876543210
 - Majesh P Shetty - _Student Program Coordinator_  
 manjeshshetty@gmail.com, +919876543210
 - Arjun Suvarna - _Chairman, SOSC_  
-arjunsuvaran.s@gmail.com, +919741032296
+arjunsuvarana.s@gmail.com, +919741032296
 
 _The Sahyadri Open-Source Community Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/). Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects including [zatech](https://github.com/zatech/code-of-conduct), [Ubuntu](https://www.ubuntu.com/community/code-of-conduct) and the [elastic community.](https://www.elastic.co/community/codeofconduct)_
 
