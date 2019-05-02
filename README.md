@@ -39,6 +39,8 @@ We expect participants to follow these rules at our all of our event venues and 
 We don't all speak the same language at the same skill level. Clear communication can help to avoid misunderstandings, as can remembering that our interpretations of words can be different depending on our backgrounds. Having context is important. It's better to ask for clarification than to make assumptions. Disagreements, social and technical, are normal, but we expect members in the community to resolve disagreements constructively — so please avoid flamewars, trolling, personal attacks, and repetitive arguments.
 #### Unaffilated Promotions
 Any promotions which are not directly affiliated to the community should be completely avoided, if found continuing even after asked to stop may result in removal from the event/community. All the members/organizers/sponsors/participants shall ask permission with  concerned people mentioned at the end of the document to carry-out any promotions within the community discussion rooms or events.
+## Violating the code of conduct
+If any member breaks the code of conduct of SOSC, Community leads will take the decision and they will be out of community activities For 6 months But if community leads decide the situation mistake made by someone is bad He will be removed from the community.
 
 ## Contact us
 
