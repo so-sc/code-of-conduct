@@ -44,12 +44,12 @@ If any member breaks the code of conduct of SOSC, Community leads will take the 
 
 ## Contact us
 
-- Prakyath Rai - _Faculty Coordinator_  
-prakyath.is@sahyadri.edu.in
-- Manjesh P Shetty - _Student Program Coordinator_  
-manjeshshetty@gmail.com, +919008492397
-- Arjun Suvarna - _Chairman, SOSC_  
-arjunsuvarana.s@gmail.com, +919741032296
+- Dr Shamanth Rai - _Faculty Coordinator_  
+hod.is@sahyadri.edu.in
+- Akashdeep Bhagat - _President, SOSC_  
+akashdeepb.cs17@sahyadri.edu.in, +918951994576
+- Basavarajeshwari Ambi - _Vice-President, SOSC_  
+breshwari99@gmail.com, +917624828176
 
 _The Sahyadri Open-Source Community Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/). Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects including [zatech](https://github.com/zatech/code-of-conduct), [Ubuntu](https://www.ubuntu.com/community/code-of-conduct) and the [elastic community.](https://www.elastic.co/community/codeofconduct)_
 
